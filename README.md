@@ -1,7 +1,7 @@
 - 👋 Falae, meu nome é Victor
 - 👀 Sou um amante de tecnologia
 - 🌱 No momento estou aprendendo SQL e JS
-- 📫 Mande um email aqui: victorporto_@hotmail.com
+- 📫 Se quiser falar comigo: victorporto_@hotmail.com
 
 <!---
 VORP2830/VORP2830 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
