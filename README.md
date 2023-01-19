@@ -9,3 +9,9 @@
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VORP2830&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+<p align="center">
+    <a href="https://github.com/VORP2830/VORP2830.git">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tauz streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VORP2830&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
