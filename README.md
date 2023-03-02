@@ -1,6 +1,6 @@
 - 👋 Falae, meu nome é Victor
 - 👀 Sou um amante de tecnologia
-- 🌱 No momento estou aprendendo JavaScript e TypeScript
+- 🌱 No momento estou aprendendo TypeScript e C#(.NET com Entity Framework)
 - 📫 Se quiser falar comigo: victorporto_@hotmail.com
 
 <p align="center">
