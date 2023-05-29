@@ -5,11 +5,11 @@
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/VORP2830">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VORP2830&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
     
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/VORP2830">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VORP2830&layout=compact&langs_count=7&theme=dark" />
 </a>
 
