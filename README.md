@@ -25,5 +25,3 @@
 <a href="https://www.linkedin.com/in/vorp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  <a href="https://www.github.com/VORP2830" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 </div>
-
-![Snake animation](https://github.com/VORP2830/VORP2830/blob/output/github-contribution-grid-snake.svg)
