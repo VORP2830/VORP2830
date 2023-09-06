@@ -3,11 +3,13 @@
 - 🌱 No momento estou aprendendo TypeScript e C#(.NET com Entity Framework)
 - 📫 Se quiser falar comigo: victorporto_@hotmail.com
 
-## **GitHub Estatísticas**
+## 📈 **Estatísticas GitHub**
 
 <a href="https://github.com/VORP2830">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=VORP2830&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=VORP2830&show_icons=true&theme=dracula&line_height=27" alt="**Victor Osorio** github stats"/>
 </a>
+
+## 🎯 **GitHub - Principais linguagens**
     
 <a href="https://github.com/VORP2830">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VORP2830&layout=compact&langs_count=7&theme=dark" />
