@@ -1,7 +1,10 @@
-- 👋 My name is Victor
-- 👀 I'm a technology lover
-- 🌱 I'm currently learning TypeScript and C# (.NET with Entity Framework)
-- 📫 If you want to talk to me: victor@vorp.com.br
+# 👋 Hi, I'm Victor
+
+## About Me
+- 🎓 **Education:** Bachelor's degree in Computer Science from Universidade Tiradentes (UNIT)
+- 💼 **Experience:** 3 years as a systems analyst and 7 months as a full-stack developer
+- 🚀 **Currently Learning:** Flutter and TypeScript 
+- 📫 **Email:** victor@vorp.com.br
 
 ## 📈 **GitHub Stats**
 
