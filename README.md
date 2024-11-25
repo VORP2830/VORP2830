@@ -2,8 +2,10 @@
 
 ## About Me
 - 🎓 **Education:** Bachelor's degree in Computer Science from Universidade Tiradentes (UNIT)
-- 💼 **Experience:** 3 years as a systems analyst and 7 months as a full-stack developer
-- 🚀 **Currently Learning:** Flutter and TypeScript 
+- 💼 **Professional Experience:**
+  - Systems Analyst (01/2021 – 12/2023)
+  - Software Developer (01/2024 – Present)
+- 🚀 **Currently Learning:** Flutter and TypeScript
 - 📫 **Email:** victor@vorp.com.br
 
 ## 📈 **GitHub Stats**
