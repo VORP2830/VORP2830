@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Victor!
 
-I'm a passionate Fullstack Software Developer a commitment to continuous learning.
+I'm a passionate Software Engineer a commitment to continuous learning.
 
 ## 🎓 Education
 - **Bachelor's in Computer Science**  
   Universidade Tiradentes (UNIT)
 - **Postgraduate in Software Engineering**  
-  Currently pursuing at PUC-Rio
+  Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)
 
 ## 🚀 What I'm Learning
 - **.NET** to deepen my expertise in developing robust applications.
